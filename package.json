@@ -1,8 +1,9 @@
 {
   "name": "ar-media",
+
   "version": "1.0.0",
   "description": "MERN Shopping Cart",
-  "main": "./server.js",
+  "main": "server.js",
   "scripts": {
     "start": "node backend/server"
   },
