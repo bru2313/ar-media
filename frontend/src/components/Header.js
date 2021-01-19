@@ -20,8 +20,7 @@ const Header = () => {
                 <Nav.Link><i className='fas fa-user'></i> Sign In</Nav.Link>
               </LinkContainer>
               </Nav>
-            </Navbar.Collapse>
-     
+            </Navbar.Collapse>     
         </Container>
       </Navbar>
   </header>
