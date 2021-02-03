@@ -21,7 +21,7 @@ const HomeScreen = () => {
  
   return (
     <>
-     <h1>Latest Products</h1> 
+     <h1>Cards, Prints and Postcards</h1> 
      {loading ? <Loader /> 
       : error 
       ? <Message variant='danger'>{error}</Message> :      
